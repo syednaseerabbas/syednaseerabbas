@@ -83,3 +83,4 @@ I’m open to **remote Senior / Lead Full-Stack roles** focused on:
 ---
 
 ⭐️ *If you like my work, consider following or starring a repository.*
+*PS: I'll be uploading fullstack hobby projects here soon - stay tuned!*
