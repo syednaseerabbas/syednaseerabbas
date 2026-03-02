@@ -77,7 +77,7 @@ I’m open to **remote Senior / Lead Full-Stack roles** focused on:
 - High-growth startups  
 - Distributed engineering teams  
 
-📫 Reach me at: **exploreroneten@gmail.com**  
+📫 Reach me at: **exploreroneten@gmail.com || https://syednaseerabbas.vercel.app/**  
 🔗 LinkedIn: **https://linkedin.com/in/naseerabbas110**  
 
 ---
